@@ -1,0 +1,44 @@
+# --------------------------------------------- SYSTEM
+man-db
+man-pages
+nano
+networkmanager
+openssh
+stow
+wget
+zsh
+
+# ---------------------------------------------- PERSONAL APPS
+kanata-bin
+neovim
+tailscale
+yazi
+
+# ---------------------------------------------- TUI TOOLS
+bat
+btop
+cowsay
+deno
+eza
+fastfetch
+fd
+fzf
+git
+github-cli
+nitch
+nvm
+pipes.sh
+ripgrep
+thefuck
+tmux
+zoxide
+
+# ---------------------------------------------- UTILS
+android-file-transfer
+inetutils
+jdk17-openjdk
+systemd-resolvconf
+udiskie
+usbutils
+wl-clip-persist-git
+xdg-user-dirs-gtk
